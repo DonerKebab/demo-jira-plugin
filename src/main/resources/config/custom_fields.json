@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ADS Access Card",
+    "desc": "ADS Access Card",
+    "type": "multiselect",
+    "searcher": "multiselectsearcher",
+    "options": ["Renew Access Card", "Change Authorization to access specific area", "Lost Access Card", "Delete authorization to access specific area", "Access Card for Customer"],
+    "issueTypes": ["ADS Access Card"]
+  },
+  {
+    "name": "ADS Booking",
+    "desc": "ADS Booking",
+    "type": "multiselect",
+    "searcher": "multiselectsearcher",
+    "options": ["Meeting Room", "Equipments", "Car rent", "Turn on computer after working hours"],
+    "issueTypes": ["ADS Booking"]
+  }
+]
